@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igbinosaephraim&label=Profile%20views&color=0e75b6&style=flat" alt="igbinosaephraim" /> </p>
 
-- 🌱 I’m currently learning Big Data and Machine learning**
+- 🌱 I’m currently learning **Big Data and Machine learning**
 
 - 📫 You can contact me on my email: **igbinosaephraim312@gmail.com**
 
