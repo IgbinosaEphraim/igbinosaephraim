@@ -1,12 +1,7 @@
 <h1 align="center">Ephraim Igbinosa</h1>
 <h3 align="center"> I am passionate about analyzing data to uncover insights and drive informed decision-making. With a solid foundation in statistics, programming, and data visualization, I thrive on transforming complex datasets into actionable intelligence. My analytical skills are honed through hands-on experience across various industries, including healthcare, e-commerce, and finance.
 
-I excel in leveraging a diverse toolkit of analytical techniques, including machine learning algorithms, regression analysis, and data mining, to extract meaningful patterns and trends. My proficiency in tools such as Python, R, SQL, and Tableau allows me to manipulate data efficiently and communicate findings effectively to stakeholders at all levels.
-Beyond technical expertise, I possess a deep understanding of business objectives and user needs, enabling me to tailor analytical solutions that drive measurable impact. Whether it's optimizing marketing strategies, improving operational efficiency, or enhancing customer experience, I am driven by a passion for solving real-world problems using data-driven approaches.
-
-I thrive in collaborative environments, where I can contribute my analytical expertise while learning from diverse perspectives. My commitment to continuous learning and staying abreast of emerging trends in data analytics ensures that I remain at the forefront of my field.
-
-With a track record of delivering actionable insights and driving positive outcomes, I am eager to apply my skills and expertise to make a meaningful difference in any organization I join. </h3>
+I excel in leveraging a diverse toolkit of analytical techniques, including machine learning algorithms, regression analysis, and data mining, to extract meaningful patterns and trends. My proficiency in tools such as Python, R, SQL, and Tableau allows me to manipulate data efficiently and communicate findings effectively to stakeholders at all levels. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igbinosaephraim&label=Profile%20views&color=0e75b6&style=flat" alt="igbinosaephraim" /> </p>
 
